@@ -1,5 +1,5 @@
 const path = require("path");
-const siteURL = "https://www.nerdlaptop.com";
+const siteURL = "https://wonderful-lamarr-ef09a0.netlify.app";
 const disqus = "nerdlaptop-com";
 
 module.exports = {
