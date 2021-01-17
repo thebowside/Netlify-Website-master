@@ -1,6 +1,6 @@
 ---
 templateKey: site-data
-title: Gaming Dairy
+title: The Bow Side
 logoSmall: /img/logo.png
 logoLarge: /img/logo-large.png
 faviconSmall: /img/favicon-16x16.jpg
@@ -15,15 +15,15 @@ cookies:
   enabled: true
   message: This website uses cookies to enhance the user experience.
 colors:
+  btnColor: "#ffffff"
+  headerTextColor: "#ffffff"
+  btnBackground: "#5899fd"
   background: "#222831"
+  btnHoverBackground: "#91bbff"
+  navbarShadow: "#828282"
+  textColor: "#ffffff"
   blockBackground: "#3c4758"
   headerBackground: "#71757a"
-  textColor: "#ffffff"
-  btnBackground: "#5899fd"
-  btnHoverBackground: "#91bbff"
-  btnColor: "#ffffff"
-  navbarShadow: "#828282"
-  headerTextColor: "#ffffff"
 topNav:
   - title: Learning Guides
     link: /learning-guides/
@@ -54,7 +54,6 @@ topNav:
     link: /news/
   - title: Reviews
     link: /reviews/
-
 footerNav:
   - title: About Us
     link: /about-us/
