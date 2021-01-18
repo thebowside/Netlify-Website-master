@@ -6,8 +6,8 @@ seoDescription: I was searching for reviews about tech products I found that
   most of the websites weren't providing useful thats when I got the idea of
   TheBowSide.
 schema: "{\"@context\":\"https://schema.org\",\"@type\":\"AboutPage\",\"mainEnt\
-  ityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.nerdlaptop.com/about\
-  -us/\"},\"url\":\"https://www.nerdlaptop.com/about-us/\",\"headline\":\"About
+  ityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://thebowside.com/about-us/\
+  \"},\"url\":\"https://www.nerdlaptop.com/about-us/\",\"headline\":\"About
   Us\",\"description\":\"I was searching for reviews about tech products I found
   that most of the websites weren't providing useful thats when I got the idea
   of
