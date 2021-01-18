@@ -18,7 +18,7 @@ schema: "{\"@context\":\"https://schema.org\",\"@type\":\"AboutPage\",\"mainEnt\
   ImageObject\",\"url\":\"https://www.nerdlaptop.com/img/logo-large.jpg\",\"wid\
   th\":\"800\",\"height\":\"258\"}}},"
 ---
-Welcome to [TheBowSide.com](https://thevbowside.com).
+Welcome to [TheBowSide.com](https://thevbowside.com) .
 
 Everyone knows that Crossbows are a bit tricky and Complicated to handle and Dangerous at the same time.
 
