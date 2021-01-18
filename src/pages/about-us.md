@@ -1,23 +1,27 @@
 ---
 templateKey: default-page
 title: About Us
-seoTitle: About Us
-seoDescription: I was searching for reviews about tech products I found that most of the websites weren't providing useful thats when I got the idea of NerdLaptop.
-schema: "{\"@context\":\"https:\/\/schema.org\",\"@type\":\"AboutPage\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/www.nerdlaptop.com\/about-us\/\"},\"url\":\"https:\/\/www.nerdlaptop.com\/about-us\/\",\"headline\":\"About Us\",\"description\":\"I was searching for reviews about tech products I found that most of the websites weren't providing useful thats when I got the idea of NerdLaptop.\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https:\/\/www.nerdlaptop.com\/about-us\/#primaryimage\",\"url\":\"https:\/\/www.nerdlaptop.com\/img\/Best-Gaming-PC-Build.jpg\",\"width\":\"1836\",\"height\":\"1948\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"NerdLaptop\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\/\/www.nerdlaptop.com\/img\/logo-large.jpg\",\"width\":\"800\",\"height\":\"258\"}}},"
+seoTitle: About Us - The Bow Side
+seoDescription: I was searching for reviews about tech products I found that
+  most of the websites weren't providing useful thats when I got the idea of
+  TheBowSide.
+schema: "{\"@context\":\"https://schema.org\",\"@type\":\"AboutPage\",\"mainEnt\
+  ityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.nerdlaptop.com/about\
+  -us/\"},\"url\":\"https://www.nerdlaptop.com/about-us/\",\"headline\":\"About
+  Us\",\"description\":\"I was searching for reviews about tech products I found
+  that most of the websites weren't providing useful thats when I got the idea
+  of
+  NerdLaptop.\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https://www.nerd\
+  laptop.com/about-us/#primaryimage\",\"url\":\"https://www.nerdlaptop.com/img/\
+  Best-Gaming-PC-Build.jpg\",\"width\":\"1836\",\"height\":\"1948\"},\"publisher\
+  \":{\"@type\":\"Organization\",\"name\":\"NerdLaptop\",\"logo\":{\"@type\":\"\
+  ImageObject\",\"url\":\"https://www.nerdlaptop.com/img/logo-large.jpg\",\"wid\
+  th\":\"800\",\"height\":\"258\"}}},"
 ---
+Welcome to [TheBowSide.com](https://thevbowside.com).
 
-## How it all Happened
+Everyone knows that Crossbows are a bit tricky and Complicated to handle and Dangerous at the same time.
 
-While I was searching for reviews about tech products I found that most of the websites weren’t providing useful that’s when I got the idea of NerdLaptop. I believed that I could write better reviews in a more professional way.
+At this moment, We decided to Provide an in-depth guide for newbies and for technical people as well so they can handle crossbows and compare the best according to their requirements.
 
-If you wish to know which product fits your needs best, this blog will be of big help to you.
-
-There are a lot of people who consider whatever product their friends, spouse, family members, or teachers suggest to them with. Not a lot of people have leisure time on their hands to do a little research themselves and check out several reviews. Believe me, it takes a lot of time to search for a product online.
-
-## nerdlaptop.com
-
-The major purpose of **nerdlaptop**.com is to deliver honest and reviews about all the technologic products in the world by ranking them from 1-10 – the top ten list.
-
-My idea of this blog is for it to be the only place where people come to when they are having second thoughts about finding good products that meet their needs. Regardless of the name of the product, if it’s a tech product, we got you covered.
-
-Make sure to read carefully and always drop a comment.
+You will find the best and reliable information about every crossbow here on this website.
