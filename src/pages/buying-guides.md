@@ -5,5 +5,5 @@ title: Black Crossbow
 slug: black-crossbow
 description: Black Crossbow
 seoTitle: Black Crossbow
-seoDescription: Black Crossbow
+seoDescription: Black Crossbows
 ---
