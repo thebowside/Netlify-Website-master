@@ -1,8 +1,10 @@
 ---
 templateKey: default-page
 title: Affiliate Disclosure
-seoTitle: Affiliate Disclosure
-seoDescription: These rules are set in place to ensure that readers or viewers of web media are aware if the blogger or publisher is partnered with organizations.
+seoTitle: Affiliate Disclosure - The Bow side
+seoDescription: These rules are set in place to ensure that readers or viewers
+  of web media are aware if the blogger or publisher is partnered with
+  organizations.
 schema: ""
 ---
 
