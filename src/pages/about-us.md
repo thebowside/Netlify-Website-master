@@ -1,22 +1,22 @@
 ---
 templateKey: default-page
 title: About Us
-seoTitle: About Us - The Bow Side
+seoTitle: About Us
 seoDescription: I was searching for reviews about tech products I found that
   most of the websites weren't providing useful thats when I got the idea of
   TheBowSide.
 schema: "{\"@context\":\"https://schema.org\",\"@type\":\"AboutPage\",\"mainEnt\
-  ityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.nerdlaptop.com/about\
-  -us/\"},\"url\":\"https://www.nerdlaptop.com/about-us/\",\"headline\":\"About
-  Us\",\"description\":\"I was searching for reviews about tech products I found
-  that most of the websites weren't providing useful thats when I got the idea
-  of
-  NerdLaptop.\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https://www.nerd\
-  laptop.com/about-us/#primaryimage\",\"url\":\"https://www.nerdlaptop.com/img/\
-  Best-Gaming-PC-Build.jpg\",\"width\":\"1836\",\"height\":\"1948\"},\"publisher\
-  \":{\"@type\":\"Organization\",\"name\":\"NerdLaptop\",\"logo\":{\"@type\":\"\
-  ImageObject\",\"url\":\"https://www.nerdlaptop.com/img/logo-large.jpg\",\"wid\
-  th\":\"800\",\"height\":\"258\"}}},"
+  ityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://thebowside.com/about-us/\
+  \"},\"url\":\"https://thebowside.com/about-us/\",\"headline\":\"About
+  Us\",\"description\":\"I was searching for reviews about crossbow products I
+  found that most of the websites weren't providing useful that's when I got the
+  idea of
+  TheBowSide.\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https://thebowsi\
+  de.com/about-us/#primaryimage\",\"url\":\"https://thebowside.com/img/Best-Gam\
+  ing-PC-Build.jpg\",\"width\":\"1836\",\"height\":\"1948\"},\"publisher\":{\"@\
+  type\":\"Organization\",\"name\":\"TheBowSide\",\"logo\":{\"@type\":\"ImageOb\
+  ject\",\"url\":\"https://thebowside.com/img/logo-large.jpg\",\"width\":\"800\\
+  ",\"height\":\"258\"}}},"
 ---
 Welcome to [TheBowSide.com](https://thevbowside.com) .
 
