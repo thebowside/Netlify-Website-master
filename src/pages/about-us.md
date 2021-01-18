@@ -11,12 +11,12 @@ schema: "{\"@context\":\"https://schema.org\",\"@type\":\"AboutPage\",\"mainEnt\
   Us\",\"description\":\"I was searching for reviews about Crossbow products I
   found that most of the websites weren't providing useful that's when I got the
   idea of
-  TheBowSide.\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https://www.nerd\
-  laptop.com/about-us/#primaryimage\",\"url\":\"https://www.nerdlaptop.com/img/\
+  TheBowSide.\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https://thebowsi\
+  de.com.com/about-us/#primaryimage\",\"url\":\"https://thebowside.com.com/img/\
   Best-Gaming-PC-Build.jpg\",\"width\":\"1836\",\"height\":\"1948\"},\"publisher\
-  \":{\"@type\":\"Organization\",\"name\":\"NerdLaptop\",\"logo\":{\"@type\":\"\
-  ImageObject\",\"url\":\"https://www.nerdlaptop.com/img/logo-large.jpg\",\"wid\
-  th\":\"800\",\"height\":\"258\"}}},"
+  \":{\"@type\":\"Organization\",\"name\":\"TheBowSide\",\"logo\":{\"@type\":\"\
+  ImageObject\",\"url\":\"https://thebowside.com/img/logo-large.jpg\",\"width\":\
+  \"800\",\"height\":\"258\"}}},"
 ---
 Welcome to [TheBowSide.com](https://thevbowside.com) .
 
