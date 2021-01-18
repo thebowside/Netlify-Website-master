@@ -2,13 +2,14 @@
 templateKey: default-page
 title: Privacy Policy
 seoTitle: Privacy Policy
-seoDescription: Our Privacy Policy describes everything that we collect in order to keep this website running. If you have an account on this site, or have left comments...
+seoDescription: Our Privacy Policy describes everything that we collect in order
+  to keep this website running. If you have an account on this site, or have
+  left comments...
 schema: ""
 ---
-
 ## Who we are
 
-Our website address is: https://www.nerdlaptop.com/
+Our website address is: https://thebowside.com/
 
 ## What personal data we collect and why we collect it
 
