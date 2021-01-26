@@ -1,6 +1,6 @@
 const path = require("path");
 const siteURL = "https://admiring-kilby-255a23.netlify.app/";
-const disqus = "thebowside";
+const disqus = "thebowside-1";
 
 module.exports = {
   siteMetadata: {
